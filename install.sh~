@@ -12,4 +12,4 @@ sudo apt-get install eclipse -y
 sudo apt-get install eclipse-cdt -y
 sudo apt-get install python -y
 sudo apt-get install ruby -y
-sudo apt-get install clang-3.5 -y
+sudo apt-get install clang-3.5
