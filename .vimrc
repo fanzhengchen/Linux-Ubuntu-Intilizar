@@ -1,0 +1,10 @@
+set number
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
+set showmatch
+set cindent
+set smartindent
+set autoindent
+set enc=utf-8
+color torte
