@@ -5,4 +5,6 @@ sudo apt-get install build-essential -y
 git clone https://github.com/Valloric/YouCompleteMe.git ~/.vim/bundle/YouCompleteMe
 cd ~/.vim/bundle/YouCompleteMe
 git submodule update --init --recursive
-./install.sh --clang-completer
+./install.py --clang-completer
+
+#git clone https://github.com/fanzhengchen/ycmd_config.git 
