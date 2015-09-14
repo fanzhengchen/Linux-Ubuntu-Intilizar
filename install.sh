@@ -8,8 +8,8 @@ sudo apt-get install git -y
 sudo apt-get install svn -y
 sudo apt-get install wget -y
 sudo apt-get install chromium-browser -y
-sudo apt-get install eclipse -y
-sudo apt-get install eclipse-cdt -y
+
 sudo apt-get install python -y
 sudo apt-get install ruby -y
 sudo apt-get install clang-3.5 -y
+sudo apt-get install cmake -y
