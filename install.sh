@@ -13,3 +13,8 @@ sudo apt-get install python -y
 sudo apt-get install ruby -y
 sudo apt-get install clang-3.5 -y
 sudo apt-get install cmake -y
+
+#install g++4.9
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+sudo apt-get install g++-4.9
