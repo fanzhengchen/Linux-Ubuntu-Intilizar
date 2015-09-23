@@ -18,3 +18,7 @@ sudo apt-get install cmake -y
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test
 sudo apt-get update
 sudo apt-get install g++-4.9
+
+sudo apt-add-repository ppa:paolorotolo/android-studio
+sudo apt-get update
+sudo apt-get install android-studio
