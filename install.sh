@@ -20,5 +20,4 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-2 -y
 sudo apt-add-repository ppa:paolorotolo/android-studio -y
 sudo apt-get update -y
 sudo apt-get install g++-4.9 -y
-sudo apt-get install android-studio -y
 sudo apt-get install sublime-text-2 -y

@@ -15,8 +15,8 @@ sudo apt-get install ruby -y
 sudo apt-get install clang-3.5 -y
 
 #install g++4.9
-sudo add-apt-repository ppa:ubuntu-toolchain-r/test
-sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
+sudo add-apt-repository ppa:webupd8team/sublime-text-2 -y
 sudo apt-add-repository ppa:paolorotolo/android-studio -y
 sudo apt-get update -y
 sudo apt-get install g++-4.9 -y
