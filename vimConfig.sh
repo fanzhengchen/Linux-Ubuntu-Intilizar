@@ -1,7 +1,3 @@
-sudo apt-get install cmake -y
-sudo apt-get install python -y
-sudo apt-get install python-dev -y
-sudo apt-get install build-essential -y
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 cat vimrc.txt >> ~/.vimrc
 vim +PluginInstall +qall
