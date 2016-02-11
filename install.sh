@@ -15,7 +15,7 @@ sudo apt-get install chromium-browser -y
 sudo apt-get install ruby -y
 sudo apt-get install clang-3.5 -y
 sudo apt-get install flashplugin-nonfree -y
-
+sudo apt-get install lib32z1 lib32ncurses5
 #install g++4.9
 sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y
 sudo add-apt-repository ppa:webupd8team/sublime-text-2 -y
