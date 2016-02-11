@@ -10,6 +10,7 @@ set expandtab
 set smarttab
 set showmatch
 set cindent
+set autoindent
 set smartindent
 set smarttab
 set wrap
