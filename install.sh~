@@ -4,6 +4,7 @@ sudo apt-get install vim -y
 sudo apt-get install vim-gnome -y
 sudo apt-get install vim-gtk -y
 sudo apt-get install python -y
+sudo apt-get install curl -y
 sudo apt-get install python-dev -y
 sudo apt-get install build-essential -y
 sudo apt-get install build-essential libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip -y
