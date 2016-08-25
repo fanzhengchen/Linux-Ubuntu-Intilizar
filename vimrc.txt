@@ -58,3 +58,4 @@ exec "w"
 exec "!g++ % -o %<"
 exec "! ./%<"
 endfunc
+
