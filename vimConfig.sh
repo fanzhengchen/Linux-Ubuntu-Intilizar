@@ -8,4 +8,6 @@ cd ~/.vim/bundle/YouCompleteMe
 git submodule update --init --recursive
 ./install.py --clang-completer
 
+dirname=`pwd`
+cp $dirname/ycm_extra_conf.py ~/.vim/.ycm_extra_conf.py
 #git clone https://github.com/fanzhengchen/ycmd_config.git 
